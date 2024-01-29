@@ -39,7 +39,7 @@ Follow these steps to get the app up and running on your local machine:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/recipe-browser-app.git
+   https://github.com/Vaishnavi-Ankam/FetchDesserts.git
    ```
 
 2. Open the project in Xcode.
